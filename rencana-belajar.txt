@@ -1,0 +1,6 @@
+#Rencana-belajar
+
+- belajar dasar php & mysql
+- belajar query sql
+- belajar git & github
+- belajar frontend
