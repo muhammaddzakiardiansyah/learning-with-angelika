@@ -1,6 +1,9 @@
 #Rencana-belajar
 
 - belajar dasar php & mysql
+  ^ belajar critical thinking
+  ^ belajar logika
 - belajar query sql
+  ^ Postgresql
 - belajar git & github
 - belajar frontend
