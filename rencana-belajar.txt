@@ -4,5 +4,8 @@
   ^ belajar array
   ^ belajar logika
 - belajar query sql
+  ^ Postgresql
+- belajar query sql
   ^ mysql
 - belajar git & github
+- belajar frontend
